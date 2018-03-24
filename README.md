@@ -1,7 +1,10 @@
 <h1>graphs_in_Ipython</h1>
-# This repo will contain almost all the graphs in trigonometry
+
+<h2>This repo will contain almost all the graphs in trigonometry</h2>
+
 </hr>
-1>SIN
-2>COSINE
-3>TANGENT
+<br>
+1>SIN<br>
+2>COSINE<br>
+3>TANGENT<br>
 
