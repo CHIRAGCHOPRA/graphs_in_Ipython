@@ -9,3 +9,4 @@
 2>COSINE<br>
 3>TANGENT<br>
 4>ARCOS<br>
+5>ARCSIN
