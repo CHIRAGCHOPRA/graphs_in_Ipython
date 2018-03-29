@@ -11,3 +11,4 @@
 4>ARCOS<br>
 5>ARCSIN<br>
 6>COT<br>
+7>SIN*SIN<br>
